@@ -8,11 +8,13 @@ That example might be rather simple, as a good use for hash tables is to store m
 ![Hash table](https://www.tutorialspoint.com/data_structures_algorithms/images/hash_function.jpg)  
 *Image from tutorialspoint.com*
 
-The hash function here is the function used to map the key value pairs (assign the value to a key). It takes an input, the key, and gives us an output, the value. Each key value pair in the hash table is also mapped to an index, resulting in the following  
+The hash function here is the function used to map the key value pairs (assign the value to a key). It takes an input, the key, and gives us an output, the value. Each key value pair in the hash table is also mapped to an index, resulting in the following 
+
 ![Hash table complete](https://www.freecodecamp.org/news/content/images/2020/03/hashtable.png)  
 *Image from freecodecamp.org*
 
-This is an example way of how to create a hash table in javascript  
+This is an example way of how to create a hash table in javascript
+
 ![Imgur](https://i.imgur.com/i9I5veK.png)  
 *From beginnersbook.com*
 
